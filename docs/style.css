@@ -519,6 +519,12 @@
   .skills {
     font-size: 25px;
   }
+  .skill-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .skill-table1 th {
     border-radius: 100%;
     height: 200px;
