@@ -1,0 +1,50 @@
+[
+    {
+        "skill": "HTML",
+        "logo": "html5"
+    },
+    {
+        "skill": "CSS",
+        "logo": "css"
+    },
+    {
+        "skill": "Bootstrap",
+        "logo": "bootstrap"
+    },
+    {
+        "skill": "Javascript",
+        "logo": "js"
+    },
+    {
+        "skill": "jQuery",
+        "logo": "jquery"
+    },
+    {
+        "skill": "React",
+        "logo": "react"
+    },
+    {
+        "skill": "Node.js",
+        "logo": "node"
+    },
+    {
+        "skill": "Express.js",
+        "logo": "express"
+    },
+    {
+        "skill": "RESTful API",
+        "logo": "rest_api"
+    },
+    {
+        "skill": "Postgresql",
+        "logo": "postgres"
+    },
+    {
+        "skill": "Jest",
+        "logo": "jest"
+    },
+    {
+        "skill": "Enzyme",
+        "logo": "enzyme"
+    }
+]
